@@ -35,8 +35,8 @@ Select a **Date and one Currency** to compare.
 
 There are different **issues** and are the next:
 
--app only compatible with the "historical" endpoint but can be expanded by changing the endpoint parameter of the "useGetCurrency" hook
--the api requires a subscription to access other endpoints and change the base currency at the moment the default base is JPY
+-app only compatible with the "historical" endpoint but can be expanded by changing the endpoint parameter of the "useGetCurrency" hook.
+-the api requires a subscription to access other endpoints and change the base currency at the moment the default base is JPY.
 
 ## Observations
 
